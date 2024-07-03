@@ -2,11 +2,3 @@
   "version": 2,
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
 }
-
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "lib": ["es6", "dom"]
-  }
-}
