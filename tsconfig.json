@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": true
+  },
+  "tsBuildInfoFile": "node_modules/.cache/tsbuildinfo.json",
+  "exclude": ["dist", "node_modules"]
+}
